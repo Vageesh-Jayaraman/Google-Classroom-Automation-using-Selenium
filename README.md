@@ -1,4 +1,3 @@
-
 ## Google Classroom Automation using Selenium
 
 **Introduction**
