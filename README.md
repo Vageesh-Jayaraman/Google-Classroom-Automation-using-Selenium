@@ -19,3 +19,9 @@ _**Note: The pip commands are provided in the PIP.txt file**_
 
 1. **Dynamic XPath:** Google Classroom's XPath for links may change frequently, causing the script to fail. Regularly update the XPath values as needed.
 2. **Password Encryption:** Passwords are stored in plain text in the CSV file, which is not secure. Consider implementing password encryption for improved security.
+
+**Screenshots of the Output**
+
+[Download PDF with Outputs](OUTPUT.pdf)
+
+Click the link above to download a PDF file containing the outputs.
